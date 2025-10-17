@@ -48,6 +48,6 @@ It follows all the requirements for the GPA Calculator assignment, including inp
 
 3. Run:
 
-    **python3 calculator.py**
+    **python3 gpa_calculator.py**
 
 4. Follow the on-screen prompts to enter your grades and analyze your GPA!
