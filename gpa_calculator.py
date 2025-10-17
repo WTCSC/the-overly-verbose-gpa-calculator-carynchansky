@@ -98,15 +98,10 @@ def goal_gpa_analysis(grades, current_gpa):
 
 def main():
     print("Welcome to the GPA Calculator!\n")
-
     grades = get_grades()
-
     overall_gpa = display_gpa(grades)
-
     semester_analysis(grades, overall_gpa)
-
     goal_gpa_analysis(grades, overall_gpa)
-
     print("\n Program complete. Thanks for using the GPA Calculator!")
 
 
